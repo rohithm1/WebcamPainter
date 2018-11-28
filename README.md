@@ -7,6 +7,6 @@ that same color and alow the user to paint. There exists the possibility for mul
 the screen. They will choose a part of the screen and if the command is set to recolor, it will make the part of the screen 
 chosen change colors randomly each second.
 
-
+The multiple brushes module has been added as separate Java code files.
 
 
